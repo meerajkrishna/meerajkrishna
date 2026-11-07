@@ -25,5 +25,5 @@
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/meerajkrishna](https://www.linkedin.com/in/meerajkrishna)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/meeraj-krishna-803737289?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 - GitHub: [github.com/meerajkrishna](https://github.com/meerajkrishna)
