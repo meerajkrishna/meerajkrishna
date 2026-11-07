@@ -10,7 +10,7 @@
 
 <img src="assets/connect.svg?v=1" alt="Let's connect on LinkedIn and GitHub" width="100%">
 
-**[LinkedIn]([https://www.linkedin.com/in/meerajkrishna)](https://www.linkedin.com/in/meeraj-krishna-803737289?utm_source=share_via&utm_content=profile&utm_medium=member_ios))** &nbsp;|&nbsp; **[GitHub](https://github.com/meerajkrishna)**
+**[LinkedIn](https://www.linkedin.com/in/meeraj-krishna-803737289?utm_source=share_via&utm_content=profile&utm_medium=member_ios)** **[GitHub](https://github.com/meerajkrishna)**
 
 </div>
 
