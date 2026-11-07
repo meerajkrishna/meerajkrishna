@@ -1,0 +1,4 @@
+Simple Icons (CC0 1.0 Universal) - https://simpleicons.org / https://github.com/simple-icons/simple-icons
+Marks used (paths taken from the Simple Icons set bundled in react-icons 5.7.0, Simple Icons 12.14.0): Python, Django, C++, JavaScript, Figma, GitHub.
+Brand names and logos remain trademarks of their owners and are used only to identify the technology.
+License text: https://creativecommons.org/publicdomain/zero/1.0/

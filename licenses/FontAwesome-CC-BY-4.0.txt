@@ -1,0 +1,3 @@
+Font Awesome Free (Brands) - https://fontawesome.com  - icons licensed CC BY 4.0
+Mark used: LinkedIn (FaLinkedin), taken from react-icons 5.7.0. Simple Icons no longer ships a LinkedIn mark.
+Attribution: Font Awesome Free by Fonticons, Inc. https://creativecommons.org/licenses/by/4.0/
